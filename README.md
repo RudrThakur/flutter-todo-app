@@ -7,5 +7,5 @@ A flutter application
 ### Version 0.1.1
 
 - Themes Added
-- Use of Notifiers
+- Use of Change Notifiers
 - Better Directory Structure
